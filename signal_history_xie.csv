@@ -1,0 +1,2610 @@
+timestamp,type,price,trigger
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101941.16,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-02 18:15:00,bullish,104427.6,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-03 01:45:00,bullish,106328.16,Bollinger Rebound + RSI + Engulfing
+2025-06-03 08:15:00,bullish,104929.92,ATR Spike + Volume Surge + RSI<35
+2025-06-03 12:45:00,bullish,105314.96,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:10:00,bullish,106088.46,Bollinger Rebound + RSI + Engulfing
+2025-06-03 19:55:00,bullish,106238.81,Bollinger Rebound + RSI + Engulfing
+2025-06-03 20:30:00,bullish,105547.99,ATR Spike + Volume Surge + RSI<35
+2025-06-04 09:20:00,bullish,105396.34,Bollinger Rebound + RSI + Engulfing
+2025-06-04 11:30:00,bullish,105219.93,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:40:00,bullish,105224.0,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:45:00,bullish,105235.79,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:50:00,bullish,105226.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 11:55:00,bullish,105084.36,ATR Spike + Volume Surge + RSI<35
+2025-06-04 12:00:00,bullish,105077.06,ATR Spike + Volume Surge + RSI<35
+2025-06-04 13:30:00,bullish,105169.35,Bollinger Rebound + RSI + Engulfing
+2025-06-04 14:00:00,bullish,104409.69,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:05:00,bullish,104346.78,ATR Spike + Volume Surge + RSI<35
+2025-06-04 14:10:00,bullish,104491.65,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:15:00,bullish,104567.1,ATR Spike + Volume Surge + RSI<35
+2025-06-04 20:20:00,bullish,104508.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 04:30:00,bullish,105152.17,Bollinger Rebound + RSI + Engulfing
+2025-06-05 05:50:00,bullish,104594.95,ATR Spike + Volume Surge + RSI<35
+2025-06-05 05:55:00,bullish,104649.23,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:35:00,bullish,104509.83,ATR Spike + Volume Surge + RSI<35
+2025-06-05 06:45:00,bullish,104410.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 08:55:00,bullish,104675.36,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:15:00,bullish,104813.3,Bollinger Rebound + RSI + Engulfing
+2025-06-05 09:55:00,bullish,104900.0,Bollinger Rebound + RSI + Engulfing
+2025-06-05 11:30:00,bullish,104830.07,Bollinger Rebound + RSI + Engulfing
+2025-06-05 12:00:00,bullish,104873.91,Bollinger Rebound + RSI + Engulfing
+2025-06-05 13:50:00,bullish,104515.47,ATR Spike + Volume Surge + RSI<35
+2025-06-05 13:55:00,bullish,104527.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:00:00,bullish,104468.51,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:05:00,bullish,104277.75,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:15:00,bullish,104018.64,ATR Spike + Volume Surge + RSI<35
+2025-06-05 14:20:00,bullish,104111.09,ATR Spike + Volume Surge + RSI<35
+2025-06-05 17:00:00,bullish,103430.62,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:15:00,bullish,101811.0,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:20:00,bullish,101897.5,ATR Spike + Volume Surge + RSI<35
+2025-06-05 19:25:00,bullish,102215.04,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:10:00,bullish,101618.84,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:20:00,bullish,101484.25,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:40:00,bullish,100845.93,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:45:00,bullish,101138.15,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:50:00,bullish,100679.38,ATR Spike + Volume Surge + RSI<35
+2025-06-05 20:55:00,bullish,100483.91,ATR Spike + Volume Surge + RSI<35
+2025-06-05 22:15:00,bullish,101279.76,Bollinger Rebound + RSI + Engulfing
+2025-06-05 23:45:00,bullish,101604.81,Bollinger Rebound + RSI + Engulfing
+2025-06-06 02:50:00,bullish,101998.41,Bollinger Rebound + RSI + Engulfing
+2025-06-07 01:45:00+08:00,bullish,104637.72,Strategy 3
+2025-06-07 03:10:00+08:00,bullish,104567.43,Strategy 3
+2025-06-07 11:20:00+08:00,bullish,104794.43,Strategy 2 + Strategy 5
