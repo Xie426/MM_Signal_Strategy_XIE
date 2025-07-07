@@ -1,6 +1,10 @@
 # MM_Signal_Strategy_XIE
 Part of a 5-member MM635 group project. This repository contains only my individual contribution, including signal strategies, model training, real-time dashboards, and the final individual report.
 
+📎 [Download Final Report – 635_MM_XIE.pdf](./635_MM_XIE.pdf)
+
+> If the PDF preview does not render, click the filename above to download and view locally.
+
 ## 🗂️ Folder Structure
 MM XIE/
 ├── 635_MM_XIE.pdf # Final report (in English)
